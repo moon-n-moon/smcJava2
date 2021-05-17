@@ -3,6 +3,6 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	//seung hun gay is true
+        System.out.println("오류 수정되었음.");
     }
 }
